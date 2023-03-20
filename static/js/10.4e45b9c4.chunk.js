@@ -1,0 +1,2 @@
+(this["webpackJsonppeopleofeden.com"]=this["webpackJsonppeopleofeden.com"]||[]).push([[10],{446:function(e,o,p){"use strict";p.r(o),o.default=p.p+"static/media/BentoMenu.6f0a0c37.svg"}}]);
+//# sourceMappingURL=10.4e45b9c4.chunk.js.map

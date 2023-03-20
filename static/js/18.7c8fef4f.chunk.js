@@ -1,2 +1,0 @@
-(this["webpackJsonppeopleofeden.com"]=this["webpackJsonppeopleofeden.com"]||[]).push([[18],{452:function(e,o,p){"use strict";p.r(o),o.default=p.p+"static/media/StarCheckedbox.83da6fc6.svg"}}]);
-//# sourceMappingURL=18.7c8fef4f.chunk.js.map

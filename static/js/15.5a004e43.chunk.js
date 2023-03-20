@@ -1,2 +1,0 @@
-(this["webpackJsonppeopleofeden.com"]=this["webpackJsonppeopleofeden.com"]||[]).push([[15],{449:function(e,p,o){"use strict";o.r(p),p.default=o.p+"static/media/Pending.327a4ed0.svg"}}]);
-//# sourceMappingURL=15.5a004e43.chunk.js.map
